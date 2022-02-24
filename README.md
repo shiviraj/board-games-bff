@@ -1,2 +1,2 @@
-# blog-bff
-blog-bff
+# board-games-bff
+board-games-bff
